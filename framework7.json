@@ -1,0 +1,19 @@
+{
+  "cwd": "/mnt/d/code/VideoStream/dashboard",
+  "type": [
+    "web"
+  ],
+  "name": "dashboard",
+  "framework": "react",
+  "template": "split-view",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "theming": {
+    "customColor": true,
+    "color": "#C1AB91",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
